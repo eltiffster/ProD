@@ -1,6 +1,6 @@
 ### Today's Agenda:
-  1. Land Acknowledgement
-    * We acknowledge, with respect, the Songhees, Esquimalt and <u>W</u>SÁNEĆ peoples on whose unceded territory the university stands and whose historical relationships with the land continue to this day.
+  1. Welcome
+    * Land Acknowledgement: We acknowledge, with respect, the Songhees, Esquimalt and <u>W</u>SÁNEĆ peoples on whose unceded territory the university stands and whose historical relationships with the land continue to this day.
     * Link to this page: **github.com/eltiffster/ProD**
   2. Email and Organization
   3. Saving & Archiving, Bibliographic Software
