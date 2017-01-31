@@ -1,7 +1,7 @@
 ##Pro D Session: Digital Research Tools
 Jan 31, 2017
 
-** Link to this page: github.com/eltiffster/ProD**
+**Link to this page: github.com/eltiffster/ProD**
 
 ### Today's Agenda:
   1. Welcome
