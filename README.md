@@ -22,4 +22,7 @@ Jan 31, 2017
   * Zotero: https://www.zotero.org/
   * Evernote: https://evernote.com/
   * Scrivener: https://www.literatureandlatte.com/scrivener.php
+    * Free Trial: https://www.literatureandlatte.com/trial.php?displayMode=scrivener
+  * Written? Kitten!: http://writtenkitten.net/
+  * Noisli Distraction-Free Text Editor (needs free account): https://www.noisli.com/
   * Digital Project Showcase: http://slides.com/tiffchan/hdtmt#/
