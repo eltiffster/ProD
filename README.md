@@ -3,6 +3,8 @@ Jan 31, 2017
 
 **Link to this page: github.com/eltiffster/ProD**
 
+Note that most things on this list are for [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), but there are likely similar extensions or settings for [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
 ### Today's Agenda:
   1. Welcome
     * Land Acknowledgement: We acknowledge, with respect, the Songhees, Esquimalt and <u>W</u>SÁNEĆ peoples on whose unceded territory the university stands and whose historical relationships with the land continue to this day.
@@ -23,6 +25,10 @@ Jan 31, 2017
   * Evernote: https://evernote.com/
   * Scrivener: https://www.literatureandlatte.com/scrivener.php
     * Free Trial: https://www.literatureandlatte.com/trial.php?displayMode=scrivener
+  * Kanbanchi: https://chrome.google.com/webstore/detail/kanbanchi-task-and-projec/jjnjkolifmlkjdnnbjghoaiaiajmlded?hl=en
+  * Juxta (Collation Software): http://juxtacommons.org/take_tour
   * Written? Kitten!: http://writtenkitten.net/
   * Noisli Distraction-Free Text Editor (needs free account): https://www.noisli.com/
-  * Digital Project Showcase: http://slides.com/tiffchan/hdtmt#/
+  * Digital Project Showcase: http://slides.com/tiffchan/hdtmt#
+  * GitHub: https://github.com/
+  * Tabby Cat (for fun): https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=en
